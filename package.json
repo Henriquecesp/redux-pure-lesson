@@ -1,7 +1,9 @@
 {
-  "name": "redux",
+  "name": "redux-pure-lesson",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/Henriquecesp/redux-pure-lesson.git",
+  "author": "henriquecesp <henriquecesps4@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "redux": "^4.1.0"
